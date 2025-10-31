@@ -1,15 +1,7 @@
-===============================================
- EXAMEN PARCIAL — FASE III (Automatización)
-===============================================
-
-🔹 Proyecto: Automatización de formulario y ejecución PowerShell
-🔹 Lenguaje: Python 3.10+
-🔹 Integrantes: Alejandro Martinez Moya - 2225328 | Fernando Garza Chávez - 2142789 | Kevin Daniel Grimaldo Esquivel - 1997415
-🔹 Equipo: Nano
-🔹 Fecha: 31/10/2025
+Examen Parcial — Fase III (Automatización)
+Proyecto: Automatización de Formulario y Ejecución PowerShell
 
 Descripción
-
 Este proyecto tiene como objetivo automatizar el llenado de un formulario web utilizando el módulo pyautogui y la ejecución de comandos PowerShell desde Python. El script captura tres pantallazos en diferentes etapas del proceso de llenado del formulario, valida las entradas del usuario, registra eventos y genera un archivo de log.
 
 1. Información General
@@ -121,14 +113,26 @@ El proyecto se empaqueta en un ejecutable usando pyinstaller para generar un arc
 Comando para generar el ejecutable:
 pyinstaller --onefile --noconsole runner.py
 
-
 Este comando crea un archivo ejecutable que no muestra la ventana de consola mientras se ejecuta.
 
 11. Log de Ejecución
 
 El script genera un archivo de log llamado run.log, que contiene los eventos ocurridos durante la ejecución, incluidos los comandos PowerShell ejecutados, los errores (si los hay) y la información sobre las capturas de pantalla tomadas.
 
-12. Consideraciones Finales
+12. Contribuciones
+
+Integrantes:
+
+Alejandro Martinez Moya (2225328)
+Contribución: Desarrollo del script principal (runner.py) y documentación.
+
+Fernando Garza Chávez (2142789)
+Contribución: Implementación de la lógica de automatización con pyautogui y validación de entradas.
+
+Kevin Daniel Grimaldo Esquivel (1997415)
+Contribución: Ejecución de PowerShell y manejo de errores en core.py.
+
+13. Consideraciones Finales
 
 Asegúrate de tener Python 3.10 o superior instalado.
 
