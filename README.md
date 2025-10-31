@@ -4,8 +4,8 @@
 
 🔹 Proyecto: Automatización de formulario y ejecución PowerShell
 🔹 Lenguaje: Python 3.10+
-🔹 Integrantes: Alejandro Martinez Moya - 2225328 | Fernando Garza Chávez - matricula | Kevin Daniel Grimaldo Esquivel - matricula 
-🔹 Equipo: Equipo Nano
+🔹 Integrantes: Alejandro Martinez Moya - 2225328 | Fernando Garza Chávez - 2142789 | Kevin Daniel Grimaldo Esquivel - matricula 
+🔹 Equipo: Nano
 🔹 Fecha: 31/10/2025
 
 -----------------------------------------------
