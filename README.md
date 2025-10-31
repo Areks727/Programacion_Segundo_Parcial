@@ -15,6 +15,7 @@ Sistema Operativo: Windows 10 / 11
 Versión de Python: 3.10 o superior
 Dependencias:
 - pyautogui
+- pillow
 - pyinstaller
 - logging (módulo estándar)
 - subprocess (módulo estándar)
