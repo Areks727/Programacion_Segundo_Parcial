@@ -1,0 +1,45 @@
+2025-10-31 08:44:03,233 INFO Inicio del examen
+2025-10-31 08:44:04,617 INFO PS 'Get-Date' code=0
+2025-10-31 08:44:04,617 INFO stdout:
+viernes, 31 de octubre de 2025 08:44:04
+2025-10-31 08:44:04,795 INFO Screenshot: out\before_20251031T144404Z.png
+2025-10-31 08:44:05,426 INFO Fecha escrita: 31/10/2025
+2025-10-31 08:44:08,596 INFO Screenshot: out\during_20251031T144408Z.png
+2025-10-31 08:44:09,734 INFO Screenshot: out\after_20251031T144409Z.png
+2025-10-31 08:44:09,734 INFO Fin del examen
+2025-10-31 14:12:41,030 INFO Inicio del examen
+2025-10-31 14:12:42,992 INFO PS 'Get-Date' code=0
+2025-10-31 14:12:42,992 INFO stdout:
+viernes, 31 de octubre de 2025 02:12:42 p. m.
+2025-10-31 14:12:43,226 INFO Screenshot: out\before_20251031T201242Z.png
+2025-10-31 14:12:43,866 INFO Fecha escrita: 31/10/2025
+2025-10-31 14:12:47,038 INFO Screenshot: out\during_20251031T201246Z.png
+2025-10-31 14:12:48,233 INFO Screenshot: out\after_20251031T201248Z.png
+2025-10-31 14:12:48,234 INFO Fin del examen
+2025-10-31 14:13:00,351 INFO Inicio del examen
+2025-10-31 14:13:01,479 INFO PS 'Get-Date' code=0
+2025-10-31 14:13:01,480 INFO stdout:
+viernes, 31 de octubre de 2025 02:13:01 p. m.
+2025-10-31 14:13:01,696 INFO Screenshot: out\before_20251031T201301Z.png
+2025-10-31 14:13:02,318 INFO Fecha escrita: 31/10/2025
+2025-10-31 14:13:05,450 INFO Screenshot: out\during_20251031T201305Z.png
+2025-10-31 14:13:06,635 INFO Screenshot: out\after_20251031T201306Z.png
+2025-10-31 14:13:06,636 INFO Fin del examen
+2025-10-31 14:13:35,510 INFO Inicio del examen
+2025-10-31 14:13:36,628 INFO PS 'Get-Date' code=0
+2025-10-31 14:13:36,628 INFO stdout:
+viernes, 31 de octubre de 2025 02:13:36 p. m.
+2025-10-31 14:13:36,836 INFO Screenshot: out\before_20251031T201336Z.png
+2025-10-31 14:13:37,475 INFO Fecha escrita: 31/10/2025
+2025-10-31 14:13:40,656 INFO Screenshot: out\during_20251031T201340Z.png
+2025-10-31 14:13:41,834 INFO Screenshot: out\after_20251031T201341Z.png
+2025-10-31 14:13:41,835 INFO Fin del examen
+2025-10-31 14:13:59,059 INFO Inicio del examen
+2025-10-31 14:14:00,178 INFO PS 'Get-Date' code=0
+2025-10-31 14:14:00,178 INFO stdout:
+viernes, 31 de octubre de 2025 02:14:00 p. m.
+2025-10-31 14:14:00,393 INFO Screenshot: out\before_20251031T201400Z.png
+2025-10-31 14:14:01,028 INFO Fecha escrita: 31/10/2025
+2025-10-31 14:14:04,209 INFO Screenshot: out\during_20251031T201404Z.png
+2025-10-31 14:14:05,380 INFO Screenshot: out\after_20251031T201405Z.png
+2025-10-31 14:14:05,380 INFO Fin del examen
